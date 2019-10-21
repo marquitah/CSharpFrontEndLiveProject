@@ -63,3 +63,8 @@ Nb: Please include a screenshot of your final work on the comment section while 
 2. Add a box-shadow to the three cards using the link below. 
 
 https://html-css-js.com/css/generator/box-shadow/
+
+## 9) Mobile-Friendly Home/Dashboard
+The Home/Dashboard in the mobile view is using the old background image and a top image banner. Please make the appropriate changes so as both Home/Dashboard views (desktop&mobile) look the same.
+
+Moreover, the Schedules partial view in the dashboard mobile view looks different from the Schedules/Index mobile view (thou both display the same data). This needs to be fixed too.
