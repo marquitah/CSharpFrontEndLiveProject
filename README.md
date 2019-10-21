@@ -1,7 +1,7 @@
 # CSharpFrontEndLiveProject
 For the last two weeks at The Tech Academy, I've been working on a project with my peers in a team developing a full scale MVC Web Application in C#. This sprint, I was focused on front end stories. We were also exposed to the agile process that mimicked a real-world employee situation with stand ups every day and a code retrospective every Friday. 
 
-Below are descriptions of the front end stories I worked on along with a few code snippets.
+Below are descriptions of the front end stories I worked on.
 
 ## 1) Redoing the Container Agreement
 The typical view on our page should have the bulk of its content within a container. This helps manage the front end styling changes, as we don't need to worry as much about colors disappearing with a changed background if the container things are in stays the same, or close to the same.
